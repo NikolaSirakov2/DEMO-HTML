@@ -17,3 +17,24 @@ nav ul li{
     display: inline-block;
     margin: 5px 90px;
 }
+
+/* section {
+    background-color: aquamarine;
+} */
+
+header {
+    padding-left: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    font-style: italic;
+    
+}
+
+#one {
+    background-color: cadetblue;
+}
+
+#test {
+    background-color: blueviolet;
+    color: aliceblue;
+}
