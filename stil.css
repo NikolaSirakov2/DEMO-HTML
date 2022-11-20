@@ -94,4 +94,10 @@ ol li {
 .pic {
     color: chartreuse;
     background-color: coral;
+    padding-bottom: 20px;
+}
+
+audio {
+    background-color: cornflowerblue;
+    margin: 10px;
 }
