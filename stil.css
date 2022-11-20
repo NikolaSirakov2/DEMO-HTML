@@ -76,12 +76,17 @@ video {
 }
 
 #order {
-    padding: 40px;
+    padding: 10px;
     background-color: burlywood;
+    margin: 10px;
 }
 
+h3 {
+    padding: 30px;
+    margin: 10px;
+}
 ol li {
-    padding: 20px;
+    padding: 10px;
     font-size: x-large;
-    margin: 30px;
+    margin: 10px;
 }
