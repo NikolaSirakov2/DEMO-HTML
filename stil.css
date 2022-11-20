@@ -74,3 +74,14 @@ video {
     width: 20%;
     padding: 40px;
 }
+
+#order {
+    padding: 40px;
+    background-color: burlywood;
+}
+
+ol li {
+    padding: 20px;
+    font-size: x-large;
+    margin: 30px;
+}
