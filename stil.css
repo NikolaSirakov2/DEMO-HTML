@@ -81,8 +81,8 @@ video {
 }
 
 SECTION p {
-    color: darkgreen;
-    background-color: crimson;
+    color: wheat;
+   
     font-size: 30px;
 }
 
@@ -106,4 +106,9 @@ ol li {
 audio {
     background-color: cornflowerblue;
     margin: 10px;
+}
+
+p + p {
+    color: darkblue;
+    font-style: normal;
 }
