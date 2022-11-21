@@ -112,3 +112,15 @@ p + p {
     color: darkblue;
     font-style: normal;
 }
+
+.orange {
+    font-size: 50px;
+}
+
+.apple {
+    font-size: 30px;
+}
+
+.apple.orange {
+    color: aqua;
+}
