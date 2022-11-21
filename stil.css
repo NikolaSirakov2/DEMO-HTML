@@ -80,6 +80,12 @@ video {
   margin: 10px;
 }
 
+SECTION p {
+    color: darkgreen;
+    background-color: crimson;
+    font-size: 30px;
+}
+
 h3 {
   padding: 30px;
   margin: 10px;
@@ -87,7 +93,7 @@ h3 {
 
 ol li {
   padding: 10px;
-  font-size: x-large;
+  font-size: 20px;
   margin: 10px;
 }
 
