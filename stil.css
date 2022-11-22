@@ -124,3 +124,8 @@ p + p {
 .apple.orange {
     color: aqua;
 }
+
+a:visited {
+    color:brown;
+    font-size: xx-large;
+}
