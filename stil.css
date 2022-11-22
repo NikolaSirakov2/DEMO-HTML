@@ -81,9 +81,9 @@ video {
 }
 
 SECTION p {
-    color: wheat;
-   
-    font-size: 30px;
+  color: wheat;
+
+  font-size: 30px;
 }
 
 h3 {
@@ -98,34 +98,48 @@ ol li {
 }
 
 .pic {
-    color: chartreuse;
-    background-color: coral;
-    padding-bottom: 20px;
+  color: chartreuse;
+  background-color: coral;
+  padding-bottom: 20px;
 }
 
 audio {
-    background-color: cornflowerblue;
-    margin: 10px;
+  background-color: cornflowerblue;
+  margin: 10px;
 }
 
 p + p {
-    color: darkblue;
-    font-style: normal;
+  color: darkblue;
+  font-style: normal;
 }
 
 .orange {
-    font-size: 50px;
+  font-size: 50px;
 }
 
 .apple {
-    font-size: 30px;
+  font-size: 30px;
 }
 
 .apple.orange {
-    color: aqua;
+  color: aqua;
 }
 
 a:visited {
-    color:brown;
-    font-size: xx-large;
+  color: brown;
 }
+
+button {
+  width: 400px;
+  height: 250px;
+  margin: 40px;
+  color: white;
+  background: #1536d8;
+}
+
+button:hover{
+    color:blueviolet;
+    background: whitesmoke;
+}
+
+
